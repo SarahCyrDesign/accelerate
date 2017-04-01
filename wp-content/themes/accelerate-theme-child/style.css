@@ -52,3 +52,190 @@
 .button {
 	background: none repeat scroll 0 0 #45ac9d;
 }
+#masthead nav ul li {
+	float: left;
+	margin: 0 10px;
+}
+
+/* Case Studies style */
+
+article.case-study {
+margin: 40px 0 0;
+}
+
+aside.case-study-sidebar {
+	float: left;
+	width: 314px;
+	margin: 0 40px 0 0;
+}
+
+div.case-study-images {
+	float:left;
+	width: 606px;
+}
+
+div.case-study-images img {
+	margin-bottom: 50px;
+	border: 1px solid #dddddd;
+}
+
+h5 {
+	color: #a6a6a6;
+	font-size:12px;
+}
+
+
+/*Home page with Featured Work*/
+
+.featured {
+	margin-left:43%;
+	margin-bottom: 30px;
+	display:block;
+	text-transform:uppercase;
+	font-size:16px;
+}
+
+p {
+	font-size:16px;
+}
+
+.individual-featured-work figure{
+	float:left;
+	margin-right:20px;
+}
+
+.individual-featured-work a {
+font-size:16px;
+text-align: center;
+}
+
+.blog-post .read-more-link{
+text-transform:uppercase;
+font-size: 16px;	
+}
+
+figcaption{
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+/*Archive Case Studies*/
+
+
+/*Contact Us Page*/
+
+#nf-field-1, #nf-field-2{	
+	
+	width: 100%;
+
+}
+
+.nf-form-title {
+	display:none;
+}
+
+
+
+ #nf-field-3{
+ 	width:100%;
+ }
+
+.field-wrap input[type="submit"], .field-wrap input[type="button"], .field-wrap button {
+background-color: #45ac9d;
+float: right;
+color:#ffffff;
+font-family: 'Montserrat';
+}
+
+
+#nf-field-4 {
+width: 20%;
+}
+
+/*Twitter feed*/
+
+a#follow-button.btn {
+	margin-bottom: 100px;
+}
+
+h3.widget-title {
+	font-size: 16px;
+	font-family : 'Montserrat';
+	color: #a6a6a6;
+	text-transform: uppercase;
+}
+
+aside#pi_simpletwittertweets-2 {
+	float:right;
+	position: absolute;
+	top: 1150px;
+	left:900px;
+	margin-bottom: 100px;
+}
+
+.widget li {
+	list-style: none;
+	font-size: 16px;
+	font-family : 'Montserrat';
+	font-weight:normal;
+	
+}
+
+.widget li img {
+	margin-right: 10px;
+	
+}
+
+/*Mailchimp form*/
+button, html input[type="button"], input[type="reset"], input[type="submit"]{
+	background: none repeat scroll 0 0 #45ac9d;
+	color: #ffffff;
+} 
+
+#mc4wp_form_widget-2 {
+	margin-top: 300px;
+}
+
+#mc4wp-form-1, #mc4wp_form_widget-2 {
+	float: right;
+}
+
+/*About Me Page*/
+
+.about-prompt, .button-contact {
+	float:left;
+	margin:auto;
+	margin-left:170px;
+	margin-top: 10%;
+	margin-bottom: 40px;
+}
+
+.button-contact {
+	margin-left:50px;
+}
+
+.about-p, .about-title{
+	text-align:center;
+}
+
+.services-image-1, .services-image-3 {
+	float: left;
+	margin-left: 8%;
+	margin-right:5px;
+	margin-bottom: 40px;
+}
+
+.our-services-1, .our-services-2, .our-services-3, .our-services-4 {
+	float:left;
+	width: 42%;
+	margin-bottom: 40px;
+}
+
+.services-image-2, .services-image-4{
+	float: right;
+	margin-right: 8%;
+	margin-bottom: 40px;
+}
+
+
+
